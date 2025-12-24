@@ -1,0 +1,13 @@
+# Python virtualenv
+py/venv/
+
+# C/C++ build artifacts
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+
+# C++ nbody binary if it gets built
+cpp/nbody_cpp
